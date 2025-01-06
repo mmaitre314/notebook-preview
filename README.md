@@ -14,6 +14,11 @@ npm install -g tfx-cli
 
 ## Test
 
+Start the local HTTP server:
+```bash
+node index.js
+```
+
 Test files: https://dev.azure.com/mmaitre314/test/_git/notebooks
 
 ## Package
